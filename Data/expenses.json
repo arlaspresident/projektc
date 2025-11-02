@@ -5,5 +5,40 @@
     "Category": "mat",
     "Description": "",
     "Amount": 123
+  },
+  {
+    "Id": 2,
+    "Date": "2023-10-27",
+    "Category": "resor",
+    "Description": "",
+    "Amount": 8990
+  },
+  {
+    "Id": 3,
+    "Date": "2025-07-10",
+    "Category": "resor",
+    "Description": "",
+    "Amount": 19990
+  },
+  {
+    "Id": 5,
+    "Date": "2025-10-10",
+    "Category": "mat",
+    "Description": "",
+    "Amount": 589
+  },
+  {
+    "Id": 6,
+    "Date": "2025-10-24",
+    "Category": "mat",
+    "Description": "",
+    "Amount": 46
+  },
+  {
+    "Id": 7,
+    "Date": "2025-07-30",
+    "Category": "mat",
+    "Description": "",
+    "Amount": 394
   }
 ]

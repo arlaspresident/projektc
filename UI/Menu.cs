@@ -123,7 +123,7 @@ public class Menu
         Pause();
     }
 
-    // Helpers
+    // helpers
     private static void PrintTable(IEnumerable<Expense> items)
     {
         Console.WriteLine(" ID | Datum      | Kategori     |    Belopp | Beskrivning");
