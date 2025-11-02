@@ -21,13 +21,6 @@
     "Amount": 19990
   },
   {
-    "Id": 5,
-    "Date": "2025-10-10",
-    "Category": "mat",
-    "Description": "",
-    "Amount": 589
-  },
-  {
     "Id": 6,
     "Date": "2025-10-24",
     "Category": "mat",
@@ -40,5 +33,12 @@
     "Category": "mat",
     "Description": "",
     "Amount": 394
+  },
+  {
+    "Id": 8,
+    "Date": "2025-10-25",
+    "Category": "mat",
+    "Description": "lunch",
+    "Amount": 129
   }
 ]
